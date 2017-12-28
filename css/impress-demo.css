@@ -239,10 +239,6 @@ a:focus {
     white-space: nowrap;
 }
 
-.slide h1 {
-    font-size: 100px;
-}
-
 /*
     And now we start to style each step separately.
 
@@ -542,9 +538,9 @@ a:focus {
     bottom: 1px;
     opacity: 0.6;
 }
-/* .impress-enabled div#impress-toolbar > span {
+.impress-enabled div#impress-toolbar > span {
     margin-right: 10px;
-} */
+}
 
 /*
     With help from the mouse-timeout plugin, we can hide the toolbar and
